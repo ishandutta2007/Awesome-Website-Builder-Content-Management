@@ -1,253 +1,190 @@
-# Awesome-Website-Builder-Content-Management
+<div align="center">
 
-## Top Website Builder & Content Management Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Website Builder &amp; Content Management CMS Ecosystem Banner" width="100%">
+</p>
 
+# 🌐 Awesome Website Builder & Content Management (CMS)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Website-Builder-Content-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Website-Builder-Content-Management?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Website-Builder-Content-Management?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated directory of top-tier SaaS website builders, visual low-code page editors, and open-source Content Management Systems (CMS).**
 
-*Focused on Visual Site Building, CMS Publishing & Self-Hosted Web Platforms*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Website Builder & Content Management**. These tools enable organizations to create, edit, and publish websites—from simple blogs to complex e-commerce stores—through visual interfaces, content management systems, or hybrid approaches that balance ease-of-use with technical control.
-
-
-
-**Examples** include HubSpot Website Builder, Webflow, WordPress, Squarespace, Wix, Framer, Weebly, Shopify, Ghost, and Duda (the category leaders).
-
-
-
-**Open-source emphasis**: Website Building & CMS is a domain where open-source tooling is **exceptionally mature and dominant**. **WordPress** powers over 41% of all websites as of May 2026, with a plugin ecosystem (59,000+) and theme library unmatched by any competitor . For modern visual building, **Silex** provides a ready-made AGPL-licensed visual builder that outputs static HTML , **Webstudio** offers a Webflow-style canvas with a growing community of designers migrating from subscription tools , and **Frappe Builder** provides a low-code visual builder with an intuitive interface . For publishing-focused workflows, **Ghost** is the standout—fully MIT-licensed, self-hosted with Stripe payments and newsletters built in, and explicitly focused on blogs, newsletters, and paid memberships rather than general-purpose websites . For headless architectures, **Payload** (Next.js-native, MIT) and **Strapi** (standalone Node.js, MIT Community) serve different architectural philosophies . The critical caveat: **WordPress requires assembly**—a design-led site typically needs a builder, caching, forms, and security plugins from different vendors, each with its own update cadence .
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[HubSpot Website Builder](https://www.hubspot.com/)**  
-
-  Website builder integrated with HubSpot's CRM and marketing platform; enables creating landing pages, blogs, and full websites with built-in SEO, analytics, and lead capture tied directly to contact records.
-
-
-
-- **[Webflow](https://webflow.com/)**  
-
-  Visual development platform that generates clean HTML/CSS/JS; mirrors the box-model structure of front-end development, making it popular with agencies wanting custom layouts without a developer . Steeper learning curve than simple editors, but offers production-ready code export and global hosting .
-
-
-
-- **[WordPress.com](https://wordpress.com/)**  
-
-  Managed version of WordPress; free tier available, Premium at $8/month adds design customization and Google Analytics, Business at $25/month unlocks 59,000+ plugins, Commerce at $45/month includes WooCommerce functionality with 2-3% transaction fees . **The hosted version differs from self-hosted WordPress.org** in plugin access and customization depth.
-
-
-
-- **[Squarespace](https://www.squarespace.com/)**  
-
-  All-in-one website builder with structured, grid-based templates; known for clean aesthetics suited to artists, photographers, and boutique shops . Handles hosting, security, and updates; includes built-in email marketing and booking tools .
-
-
-
-- **[Wix](https://www.wix.com/)**  
-
-  Free-form drag-and-drop editor with a curated app store for scheduling and lead collection; protects against downtime by handling core updates automatically and offers templates for restaurants, salons, and photography studios . Best for beginners wanting a site without technical friction.
-
-
-
-- **[Framer](https://www.framer.com/)**  
-
-  Design-first website builder with AI-powered generation, responsive breakpoints, and CMS; popular for marketing sites and portfolios with polished, modern aesthetics.
-
-
-
-- **[Weebly](https://www.weebly.com/)**  
-
-  Simple website builder (now part of Square) for small businesses; drag-and-drop editor with e-commerce capabilities and integrated hosting.
-
-
-
-- **[Shopify](https://www.shopify.com/)**  
-
-  E-commerce-focused platform with online store builder, themes, and app ecosystem; the standard for product-based businesses requiring inventory, payments, and shipping integration.
-
-
-
-- **[Ghost](https://ghost.org/)**  
-
-  Publishing platform for blogs, newsletters, and paid memberships; self-hosted version is fully MIT-licensed with Stripe payments and email newsletters built in . **Deliberately focused**—not for general-purpose websites or custom content types . Ghost(Pro) starts at $15/month with all infrastructure managed .
-
-
-
-- **[Duda](https://www.duda.co/)**  
-
-  Website builder for agencies and small businesses; features a drag-and-drop editor, responsive design, and client management tools for multi-site deployments.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### Traditional CMS Platforms
-
-
-
-- **[WordPress](https://github.com/WordPress/WordPress)**  
-
-  The world's most widely deployed CMS (GPL-2.0-or-later); powers over 41% of all websites as of May 2026 . Features the Gutenberg block editor, tens of thousands of plugins and themes, and mature solutions for ecommerce (WooCommerce), memberships, and multilingual publishing . **The strongest ecosystem by a wide margin**, but a design-led site typically requires assembling a builder, caching, forms, and security plugins from different vendors . Best for content-heavy sites, blogs, and any project needing extensive functionality with handover to non-technical owners.
-
-
-
-- **[Joomla](https://github.com/joomla/joomla-cms)**  
-
-  Traditional PHP CMS (GPL) first released in 2005; the closest alternative if you like how WordPress works but want more in the box . Features **native multilingual support without plugins**, access levels and user action logs in core, and a Web Services API . Smaller ecosystem than WordPress (5.2k GitHub stars, 1.2k contributors) but run by a non-profit (Open Source Matters) . Best for multilingual and membership sites built by PHP agencies.
-
-
-
-- **[Drupal](https://github.com/drupal/drupal)**  
-
-  Enterprise-grade PHP CMS (GPL) for complex data models and large-scale sites; used by major organizations for its ability to handle high volumes of data . **Steeper learning curve** and fewer developers available compared to WordPress, but offers complete customization and robust content modeling .
-
-
-
-### Visual Website Builders (Static & Low-Code)
-
-
-
-- **[Silex](https://github.com/silexlabs/Silex)**  
-
-  Ready-made **visual website builder** with a full graphical interface aimed at designers and content creators (AGPL-3.0) . Self-hostable and **outputs static HTML** ready for deployment; the combination makes it a straightforward choice for designing pages and shipping files without running a CMS . **Note the AGPL licence**: offering modified software as a network service carries source-sharing obligations that MIT does not . Best for marketing teams and design agencies producing multiple static pages.
-
-
-
-- **[Webstudio](https://github.com/webstudio-is/webstudio)**  
-
-  Open-source **Webflow alternative** with a modern canvas and component-driven approach (AGPL-3.0 core) . The closest thing to Webflow's editing experience in the open-source landscape, with a real community of designers migrating away from subscription tooling . Best for designers who want Webflow-style editing without a per-site subscription.
-
-
-
-- **[Frappe Builder](https://github.com/frappe/builder)**  
-
-  Open-source **low-code website builder** with an intuitive visual interface (MIT) . Enables users to create beautiful, responsive websites with drag-and-drop; part of the Frappe ecosystem alongside ERPNext. Best for teams already in the Frappe/ERPNext ecosystem or wanting a modern MIT-licensed builder.
-
-
-
-- **[GrapesJS](https://github.com/GrapesJS/grapesjs)**  
-
-  **Framework for building page builders** (BSD-3-Clause) . Generates HTML, CSS, and JavaScript with pluggable storage so you decide where content lives. **Not a page builder you install and use**—if you are shipping a SaaS product that needs a drag-and-drop editor inside it, this is the foundation most teams reach for . Best for developers embedding an editor in their own product.
-
-
-
-- **[Publii](https://github.com/GetPublii/Publii)**  
-
-  Desktop application that builds a **static site locally** for upload to any host . No server application to secure, no database to back up, no login page to attack—the whole attack surface of a CMS simply does not exist . The trade-off: editing happens on one machine unless you sync files yourself, ruling out collaborative teams . Best for individuals wanting a static site with no server administration.
-
-
-
-- **[Instatic](https://github.com/CoreBunch/Instatic)**  
-
-  Open-source **agentic self-hosted visual CMS** positioned as an alternative to Webflow, Framer, and WordPress . Features visual editing, static page generation (baked to disk on publish), plugin system with QuickJS-WASM sandboxing, and audit logs. Built by the team behind Motion.page and Core Framework. **Pre-1.0**—treat as beta and pick projects where a rollback is survivable .
-
-
-
-### Headless CMS Platforms
-
-
-
-- **[Payload](https://github.com/payloadcms/payload)**  
-
-  **Next.js-native headless CMS** (MIT, 44.1k GitHub stars) that installs directly into your existing `/app` folder . Frontend and backend live in one codebase, one deployment, one repo; the **Local API** allows querying content directly in React Server Components with no network hop . Supports MongoDB, PostgreSQL, and SQLite; content modeling is **code-first TypeScript** with generated types . Best for engineering-led teams building self-hosted Next.js sites who want tight integration and type safety.
-
-
-
-- **[Strapi](https://github.com/strapi/strapi)**  
-
-  Leading open-source headless CMS (MIT Community, 72.9k GitHub stars) with a **standalone Node.js architecture** and its own admin panel . Features a **Content-Type Builder GUI** for non-developers to shape content models, supports PostgreSQL/MySQL/MariaDB/SQLite (notably **not MongoDB**), and REST/GraphQL APIs . Best for teams with multiple consumers (web, mobile, partner integrations) needing a decoupled CMS with a visual content modeling interface. Paid Growth plan at $45/month with 3 seats .
-
-
-
-- **[Directus](https://github.com/directus/directus)**  
-
-  Open data platform that turns any SQL database into a headless API with a no-code admin app (source-available). Free self-hosted; Cloud from $25/month . Best for teams wanting to wrap an existing database with a modern admin interface without migrating data.
-
-
-
-- **[Ghost](https://github.com/TryGhost/Ghost)**  
-
-  Publishing platform (MIT, fully open-source with nothing locked to a paid edition) . Self-hosted version includes memberships, paid subscriptions, newsletters, and the Admin API—**Stripe payments built in without extra plugins** . Requires MySQL 8, Node.js 22/24, and NGINX; idle memory ~160MB for Ghost plus ~475MB for MySQL . Best for media companies, creators, and B2B teams running a blog with a newsletter and paid memberships—**not for general-purpose websites** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **KeystoneJS** — Node.js toolkit for building a content backend (TypeScript/Prisma); GraphQL API and admin UI generated from schema; fine-grained access control per field and item . Best for developer teams building custom content backends with complex permissions.
-
-- **Grav** — Flat-file PHP CMS with no database; pages are Markdown files kept in Git . Runs on any PHP 8.3 host; REST API and MCP server in Grav 2 . Best for small to mid-size marketing and docs sites wanting no database and Git-friendly content.
-
-
-
-**Frameworks for building custom systems**: The choice hinges on your workflow philosophy. For **maximum ecosystem and content-heavy sites**, WordPress (with page builder plugin) remains unmatched . For **ready-made visual static site building**, Silex or Webstudio . For **publishing with newsletters and paid memberships**, Ghost . For **Next.js-integrated headless CMS**, Payload . For **standalone headless with GUI content modeling**, Strapi . For **no-server static sites**, Publii . No single tool is best across all use cases—WordPress dominates by breadth, but specialized tools often serve specific workflows better.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Website builders and CMS platforms handling user data and content must comply with applicable privacy regulations and accessibility standards; self-hosted platforms place full responsibility for security, updates, and backups on the operator.
-
-- **Open-source website building is mature and dominant**—WordPress alone powers over 41% of the web , and specialized tools (Ghost for publishing, Silex/Webstudio for visual building, Payload/Strapi for headless) serve diverse needs. However, **WordPress requires assembly** (builder + caching + forms + security plugins from different vendors) , and **AGPL-licensed tools** (Silex, Webstudio core, Instatic) carry source-sharing obligations if offered as a network service . Choose based on ecosystem needs, technical capacity, and licensing tolerance.
-
-- Verify license terms for commercial use; WordPress uses GPL-2.0-or-later, Ghost uses MIT , Payload uses MIT , Strapi Community uses MIT , Silex uses AGPL-3.0 , and Webstudio core uses AGPL-3.0 .
-
-
+*Compare pricing models, enterprise valuations, free tier limits, and live GitHub stars for visual design tools, headless CMS engines, and self-hosted publishing platforms.*
 
 ---
 
+</div>
 
+## 📑 Table of Contents
 
-**Made for web designers, content teams, developers, and organizations choosing their website platform.**  
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏆 Top Open-Source Projects Ranked by GitHub Stars](#-top-open-source-projects-ranked-by-github-stars)
+  - [🧩 Architectural Comparison & Implementation Insights](#-architectural-comparison--implementation-insights)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & License](#️-disclaimer--license)
 
-Let's make website building and content management more open, but with clear eyes about the assembly work and licensing trade-offs that define each path.
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Website Builder & Web Content Management (WCM/CMS)** market is estimated at **$21.8 billion to $24.5 billion**, expanding at a compound annual growth rate (**CAGR of 9.4%–11.8%**) toward an estimated **$40+ billion** in the next several years.
+
+The sector exhibits **moderate fragmentation with polarized consolidation at both ends**:
+- **Consolidated at the base**: In general publishing and legacy web presence, **WordPress** commands a near-monopolistic footprint (powering over 40% of all global websites), while public giants **Shopify, Wix, and Squarespace** control the commercial SMB and e-commerce segments.
+- **Fragmented in specialized verticals**: Rapid innovation in modern decoupled architectures has fragmented developer tools across **Headless CMS APIs** (Strapi, Payload, Directus, Contentful, Sanity), **Visual No-Code Canvas engines** (Webflow, Framer, Webstudio), and **Git-based / static site architectures** (TinaCMS, Decap CMS, Publii). Rather than a single winner-take-all monopoly across the board, the sector has bifurcated into **visual design platforms** for marketing teams and **headless composable data backends** for modern engineering organizations.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+Below is a detailed comparison of market-leading hosted website builders and SaaS content management platforms, sorted in descending order by **Company Size (Revenue / Market Capitalization / Valuation)**.
+
+| SaaS Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limit / Trial Plan | Primary Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify](https://www.shopify.com/)** | **~$105 Billion Market Cap** (~$7.06B Ann. Revenue) | **$39/month** (Basic plan, billed monthly; $29/mo billed annually) | **3-day free trial**; followed by promotional $1/month for the first month | Industry-standard e-commerce store builder, multichannel payment processing, global inventory management, and expansive App Store ecosystem. |
+| **[HubSpot Website Builder](https://www.hubspot.com/)** | **~$28 Billion Market Cap** (~$2.17B Ann. Revenue) | **$20/seat/month** (Content Hub Starter, billed monthly; $15/mo annually) | **Free forever plan**: up to 25 website pages, 1 blog with up to 100 posts, HubSpot branding, 99.95% uptime hosting, and custom domain connection | All-in-one CMS integrated with CRM; built-in SEO tools, lead capture forms, live chat, and unified customer database marketing. |
+| **[Wix](https://www.wix.com/)** | **~$9.5 Billion Market Cap** (~$1.56B Ann. Revenue) | **$17/month** (Light plan, billed annually) | **Free forever plan**: 500 MB cloud storage, 500 MB monthly bandwidth, Wix subdomain (`username.wixsite.com/site`), Wix branded footer ads | Free-form unstructured drag-and-drop website builder with App Market for bookings, appointments, restaurant menus, and lead generation. |
+| **[Squarespace](https://www.squarespace.com/)** | **~$6.9 Billion Valuation** (Acquired by Permira in 2024; ~$1.01B Ann. Revenue) | **$25/month** (Personal plan, billed monthly; $16/mo annually) | **14-day free trial** with full access to editor and design templates; no live domain publication without paid plan | Structured responsive grid builder (Fluid Engine) renowned for designer-grade aesthetics, integrated scheduling, portfolios, and e-commerce. |
+| **[Webflow](https://webflow.com/)** | **~$4.0 Billion Valuation** (~$130M+ ARR) | **$18/month** (Basic site plan, billed monthly; $14/mo annually) | **Free forever Starter workspace**: 2 published pages, 50 CMS database items, 1 GB monthly bandwidth, and `.webflow.io` staging domain | Visual development canvas generating semantic HTML/CSS/JS with full flexbox and CSS grid control, animations, and exportable frontend code. |
+| **[Framer](https://www.framer.com/)** | **~$2.0 Billion Valuation** (~$50M+ ARR) | **$10/site/month** (Mini plan, billed annually; $5/mo billed yearly on legacy/discount) | **Free forever plan**: 1,000 monthly visitors, Framer subdomain (`sitename.framer.app`), Framer badge, up to 10 CMS items, unlimited design canvas | Design-first visual website builder with native Figma-like layout canvas, modern typography, responsive breakpoints, and rich interactions. |
+| **[WordPress.com](https://wordpress.com/)** | **~$1.0 Billion Valuation** (Automattic valuation; ~$300M+ Ann. Revenue) | **$7/month** (Starter plan; Explorer at $14/mo, Business at $33/mo) | **Free forever plan**: 1 GB storage, free WordPress.com subdomain (`name.wordpress.com`), community support, WordPress.com branded ads | Fully managed hosting environment for WordPress; unlocks premium themes, automatic core updates, and managed Jetpack security. |
+| **[Weebly](https://www.weebly.com/)** | **~$365 Million Acquisition** (Acquired by Block / Square) | **$13/month** (Personal plan, billed monthly; $10/mo annually) | **Free forever plan**: 500 MB cloud storage, free SSL certificate, Weebly branded subdomain, Square checkout integration for basic sales | Simple drag-and-drop website and storefront builder designed for local merchants, small storefronts, and Square POS users. |
+| **[Duda](https://www.duda.co/)** | **~$200 Million Valuation** (~$50M+ ARR, backed by Susquehanna) | **$25/month** (Basic plan, billed monthly; $19/mo annually) | **14-day free trial** with full agency suite features and team collaboration; no credit card required | White-label website builder engineered specifically for digital agencies, web design firms, and multi-client SaaS platforms. |
+| **[Ghost(Pro)](https://ghost.org/)** | **~$15 Million+ ARR** (Bootstrapped Non-Profit Foundation) | **$11/month** (Starter tier, billed monthly; $9/mo billed annually for 500 members) | **14-day free trial** with full feature set, automated newsletter sending, and zero credit card required | Premium hosted subscription platform optimized for independent newsletters, paid digital publications, media publishers, and creators. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore the most prominent open-source website builders, headless CMS engines, and self-hosted publishing platforms.
+
+### 🏆 Top Open-Source Projects Ranked by GitHub Stars
+
+Below, projects are ordered in descending order of community popularity, linked directly to their stargazer communities:
+
+1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
+   🚀 Leading open-source headless CMS written in 100% JavaScript and TypeScript. Delivers an intuitive Content-Type Builder GUI, role-based access controls, automatic REST and GraphQL API scaffolding, and database support for PostgreSQL, SQLite, and MySQL.
+
+2. **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+   📰 Independent publishing platform (MIT license) built for modern journalism, blogs, newsletters, and member subscriptions. Features integrated Stripe recurring billing, transactional email newsletters, and clean Node.js publishing performance.
+
+3. **[Payload](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
+   ⚡ Fullstack Next.js-native headless CMS framework (MIT license). Runs directly within the React Server Components `/app` directory with zero network hops via Local API, schema-as-code TypeScript types, and pluggable PostgreSQL, SQLite, or MongoDB backends.
+
+4. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+   🐰 Dynamic data platform and headless backend that instantly wraps any SQL database (PostgreSQL, MySQL, SQLite, Oracle) with both REST/GraphQL endpoints and a clean no-code collaborative administration suite.
+
+5. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+   🛍️ The flexible open-source modular commerce and digital storefront engine for developers; acts as a composable open-source Shopify alternative with complete API-first flexibility.
+
+6. **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)  
+   🎨 Extensible open-source multi-purpose Web Builder Framework (BSD-3-Clause). Designed for software engineers building embedded visual page builders, newsletter email designers, and in-app templates without external dependencies.
+
+7. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
+   🌐 The world's most widely adopted open-source Content Management System (GPLv2+). Powers over 40% of the internet with Gutenberg visual block editing, 60,000+ plugins, and an unrivalled ecosystem for blogs and WooCommerce stores.
+
+8. **[Decap CMS](https://github.com/decaporg/decap-cms)** [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
+   📁 Single-page React application for Git-based static site generators (formerly Netlify CMS). Edits content and automatically commits Markdown, JSON, or YAML directly to GitHub, GitLab, or Bitbucket.
+
+9. **[Grav](https://github.com/getgrav/grav)** [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
+   ⚡ Ultra-fast, flat-file PHP CMS powered by Symfony and Twig templating. Requires zero SQL database setup—storing content exclusively in markdown files with a built-in package manager and REST API capabilities.
+
+10. **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
+    🦙 Open-source headless CMS supporting real-time visual editing directly on your live website pages, preserving Git as the source of truth for all structured Markdown and MDX files.
+
+11. **[KeystoneJS](https://github.com/keystonejs/keystone)** [![GitHub stars](https://img.shields.io/github/stars/keystonejs/keystone?style=social&color=white)](https://github.com/keystonejs/keystone/stargazers)  
+    💎 TypeScript-native headless CMS and backend toolkit built around GraphQL schemas, automated CRUD database migrations, Prisma ORM, and fine-grained field-level session security.
+
+12. **[Webstudio](https://github.com/webstudio-is/webstudio)** [![GitHub stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)  
+    🖌️ Open-source visual website builder and Webflow alternative. Connects to any headless CMS, supports all CSS flexbox/grid properties, and exports high-performance clean static pages.
+
+13. **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=social&color=white)](https://github.com/CoreBunch/Instatic/stargazers)  
+    🤖 Agentic self-hosted visual CMS alternative to Webflow and Framer that bakes static HTML pages straight to disk, paired with sandboxed QuickJS-WASM extensibility.
+
+14. **[Publii](https://github.com/GetPublii/Publii)** [![GitHub stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
+    🖥️ Desktop-native GUI application (Windows, macOS, Linux) that builds blazing-fast static websites locally with zero server attack vectors or database maintenance.
+
+15. **[Joomla!](https://github.com/joomla/joomla-cms)** [![GitHub stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=social&color=white)](https://github.com/joomla/joomla-cms/stargazers)  
+    🏛️ Enterprise-ready PHP CMS featuring native multilingual content translation, advanced user access control (ACL), and comprehensive audit logging without requiring third-party plugins.
+
+16. **[Statamic](https://github.com/statamic/cms)** [![GitHub stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
+    🔥 Modern flat-file and hybrid CMS built on Laravel. Blends the speed of flat-file markdown storage with full database power and dynamic Control Panel visual editing.
+
+17. **[Drupal](https://github.com/drupal/drupal)** [![GitHub stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
+    🏢 Enterprise CMS platform renowned for scalable content modeling, taxonomy structures, multisite governance, and rigorous government/corporate digital accessibility.
+
+18. **[Craft CMS](https://github.com/craftcms/cms)** [![GitHub stars](https://img.shields.io/github/stars/craftcms/cms?style=social&color=white)](https://github.com/craftcms/cms/stargazers)  
+    🛠️ Flexible, content-first CMS tailored for bespoke digital web experiences, custom Matrix fields, Twig templates, and multi-environment deployment workflows.
+
+19. **[Silex](https://github.com/silexlabs/Silex)** [![GitHub stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)  
+    ✨ Free and libre visual website creator (AGPL-3.0) that generates clean static HTML files without running a heavy server CMS runtime.
+
+20. **[Squidex](https://github.com/Squidex/squidex)** [![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)  
+    🐙 Open-source headless CMS and content management hub built on .NET and MongoDB, featuring real-time event-sourcing and multi-channel asset distribution.
+
+21. **[Frappe Builder](https://github.com/frappe/builder)** [![GitHub stars](https://img.shields.io/github/stars/frappe/builder?style=social&color=white)](https://github.com/frappe/builder/stargazers)  
+    🧱 Modern open-source visual page builder (MIT) from the Frappe & ERPNext team, enabling responsive page authoring with intuitive drag-and-drop elements.
+
+22. **[Silverstripe CMS](https://github.com/silverstripe/silverstripe-cms)** [![GitHub stars](https://img.shields.io/github/stars/silverstripe/silverstripe-cms?style=social&color=white)](https://github.com/silverstripe/silverstripe-cms/stargazers)  
+    🌿 Developer-friendly PHP CMS and web application framework with an ergonomic authoring interface and flexible ORM.
+
+---
+
+### 🧩 Architectural Comparison & Implementation Insights
+
+| Architecture Archetype | Best For | Standout Candidates | Architectural Trade-offs |
+| :--- | :--- | :--- | :--- |
+| **Traditional All-in-One CMS** | Non-technical end users, content-heavy blogs, editorial news | WordPress, Joomla, Drupal, Silverstripe | Massive theme/plugin ecosystems, but requires ongoing plugin updates, database maintenance, and security hardening. |
+| **Headless & Composable CMS** | Modern Next.js/React frontends, mobile apps, omnichannel apps | Strapi, Payload, Directus, KeystoneJS, Squidex | Complete UI flexibility and clean API decoupling, but requires front-end engineering teams to build presentation templates. |
+| **Visual Static & Low-Code Builders** | Designers, marketing landing pages, agency client sites | Webstudio, Silex, Frappe Builder, Instatic | Instant visual feedback and exportable HTML, though complex dynamic backends may require custom API wiring. |
+| **Git-Based / Flat-File CMS** | Developers, technical writers, documentation portals | TinaCMS, Decap CMS, Grav, Statamic | Zero database footprint and complete Git revision history, but limited for non-technical clients unfamiliar with Git PR flows. |
+| **Publishing & Newsletters** | Creators, subscription media outlets, independent authors | Ghost | Built-in email newsletters and Stripe monetization, but intentionally narrow for non-blog layouts. |
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Website-Builder-Content-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Website-Builder-Content-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated resource helpful for your technology evaluations, benchmarking, or development stack, please consider supporting ongoing maintenance:
+
+- ⭐ **Star this repository** to improve discoverability on GitHub!
+- 🍴 **Fork and share** with colleagues, designers, and engineering teams.
+- ☕ **Buy us a coffee** via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your sponsorship helps keep data, market valuations, and pricing tiers accurate and up-to-date!
+
+---
+
+## 🤝 How to Contribute
+
+Contributions, corrections, and new entries are always welcome!
+
+1. Fork the repository.
+2. Check that the tool or platform aligns with Website Builder or Content Management functionality.
+3. Edit `README.md` maintaining table formatting, pricing specifics, company metrics, and live stargazer badges.
+4. Submit a Pull Request with a brief summary of additions or updates.
+
+---
+
+## ⚖️ Disclaimer & License
+
+- This repository is a community-curated research resource and does not constitute formal financial, architectural, or vendor endorsement.
+- Verify license compliance before commercial deployment (e.g., GPL, MIT, BSD, or copyleft AGPL obligations when distributing SaaS variants).
+- Released under the [MIT License](LICENSE).
