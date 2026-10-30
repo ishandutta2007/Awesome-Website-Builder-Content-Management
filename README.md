@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Website-Builder-Content-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Website-Builder-Content-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Website-Builder-Content-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Website-Builder-Content-Management?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Website-Builder-Content-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -17,7 +17,7 @@
 
 **Curated directory of top-tier SaaS website builders, visual low-code page editors, and open-source Content Management Systems (CMS).**
 
-*Compare pricing models, enterprise valuations, free tier limits, and live GitHub stars for visual design tools, headless CMS engines, and self-hosted publishing platforms.*
+*Compare pricing models, enterprise valuations, free tier limits, and live GitHub_Stars for visual design tools, headless CMS engines, and self-hosted publishing platforms.*
 
 ---
 
@@ -28,7 +28,7 @@
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [🏆 Top Open-Source Projects Ranked by GitHub Stars](#-top-open-source-projects-ranked-by-github-stars)
+  - [🏆 Top Open-Source Projects Ranked by GitHub_Stars](#-top-open-source-projects-ranked-by-github-stars)
   - [🧩 Architectural Comparison & Implementation Insights](#-architectural-comparison--implementation-insights)
 - [📈 Star History](#-star-history)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -70,74 +70,74 @@ Below is a detailed comparison of market-leading hosted website builders and Saa
 
 Explore the most prominent open-source website builders, headless CMS engines, and self-hosted publishing platforms.
 
-### 🏆 Top Open-Source Projects Ranked by GitHub Stars
+### 🏆 Top Open-Source Projects Ranked by GitHub_Stars
 
 Below, projects are ordered in descending order of community popularity, linked directly to their stargazer communities:
 
-1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
+1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
    🚀 Leading open-source headless CMS written in 100% JavaScript and TypeScript. Delivers an intuitive Content-Type Builder GUI, role-based access controls, automatic REST and GraphQL API scaffolding, and database support for PostgreSQL, SQLite, and MySQL.
 
-2. **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+2. **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
    📰 Independent publishing platform (MIT license) built for modern journalism, blogs, newsletters, and member subscriptions. Features integrated Stripe recurring billing, transactional email newsletters, and clean Node.js publishing performance.
 
-3. **[Payload](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
+3. **[Payload](https://github.com/payloadcms/payload)** [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
    ⚡ Fullstack Next.js-native headless CMS framework (MIT license). Runs directly within the React Server Components `/app` directory with zero network hops via Local API, schema-as-code TypeScript types, and pluggable PostgreSQL, SQLite, or MongoDB backends.
 
-4. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+4. **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    🐰 Dynamic data platform and headless backend that instantly wraps any SQL database (PostgreSQL, MySQL, SQLite, Oracle) with both REST/GraphQL endpoints and a clean no-code collaborative administration suite.
 
-5. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+5. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
    🛍️ The flexible open-source modular commerce and digital storefront engine for developers; acts as a composable open-source Shopify alternative with complete API-first flexibility.
 
-6. **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)  
+6. **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub_Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)  
    🎨 Extensible open-source multi-purpose Web Builder Framework (BSD-3-Clause). Designed for software engineers building embedded visual page builders, newsletter email designers, and in-app templates without external dependencies.
 
-7. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
+7. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub_Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
    🌐 The world's most widely adopted open-source Content Management System (GPLv2+). Powers over 40% of the internet with Gutenberg visual block editing, 60,000+ plugins, and an unrivalled ecosystem for blogs and WooCommerce stores.
 
-8. **[Decap CMS](https://github.com/decaporg/decap-cms)** [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
+8. **[Decap CMS](https://github.com/decaporg/decap-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
    📁 Single-page React application for Git-based static site generators (formerly Netlify CMS). Edits content and automatically commits Markdown, JSON, or YAML directly to GitHub, GitLab, or Bitbucket.
 
-9. **[Grav](https://github.com/getgrav/grav)** [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
+9. **[Grav](https://github.com/getgrav/grav)** [![GitHub_Stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
    ⚡ Ultra-fast, flat-file PHP CMS powered by Symfony and Twig templating. Requires zero SQL database setup—storing content exclusively in markdown files with a built-in package manager and REST API capabilities.
 
-10. **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
+10. **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub_Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
     🦙 Open-source headless CMS supporting real-time visual editing directly on your live website pages, preserving Git as the source of truth for all structured Markdown and MDX files.
 
-11. **[KeystoneJS](https://github.com/keystonejs/keystone)** [![GitHub stars](https://img.shields.io/github/stars/keystonejs/keystone?style=social&color=white)](https://github.com/keystonejs/keystone/stargazers)  
+11. **[KeystoneJS](https://github.com/keystonejs/keystone)** [![GitHub_Stars](https://img.shields.io/github/stars/keystonejs/keystone?style=social&color=white)](https://github.com/keystonejs/keystone/stargazers)  
     💎 TypeScript-native headless CMS and backend toolkit built around GraphQL schemas, automated CRUD database migrations, Prisma ORM, and fine-grained field-level session security.
 
-12. **[Webstudio](https://github.com/webstudio-is/webstudio)** [![GitHub stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)  
+12. **[Webstudio](https://github.com/webstudio-is/webstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)  
     🖌️ Open-source visual website builder and Webflow alternative. Connects to any headless CMS, supports all CSS flexbox/grid properties, and exports high-performance clean static pages.
 
-13. **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=social&color=white)](https://github.com/CoreBunch/Instatic/stargazers)  
+13. **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub_Stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=social&color=white)](https://github.com/CoreBunch/Instatic/stargazers)  
     🤖 Agentic self-hosted visual CMS alternative to Webflow and Framer that bakes static HTML pages straight to disk, paired with sandboxed QuickJS-WASM extensibility.
 
-14. **[Publii](https://github.com/GetPublii/Publii)** [![GitHub stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
+14. **[Publii](https://github.com/GetPublii/Publii)** [![GitHub_Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
     🖥️ Desktop-native GUI application (Windows, macOS, Linux) that builds blazing-fast static websites locally with zero server attack vectors or database maintenance.
 
-15. **[Joomla!](https://github.com/joomla/joomla-cms)** [![GitHub stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=social&color=white)](https://github.com/joomla/joomla-cms/stargazers)  
+15. **[Joomla!](https://github.com/joomla/joomla-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=social&color=white)](https://github.com/joomla/joomla-cms/stargazers)  
     🏛️ Enterprise-ready PHP CMS featuring native multilingual content translation, advanced user access control (ACL), and comprehensive audit logging without requiring third-party plugins.
 
-16. **[Statamic](https://github.com/statamic/cms)** [![GitHub stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
+16. **[Statamic](https://github.com/statamic/cms)** [![GitHub_Stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
     🔥 Modern flat-file and hybrid CMS built on Laravel. Blends the speed of flat-file markdown storage with full database power and dynamic Control Panel visual editing.
 
-17. **[Drupal](https://github.com/drupal/drupal)** [![GitHub stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
+17. **[Drupal](https://github.com/drupal/drupal)** [![GitHub_Stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
     🏢 Enterprise CMS platform renowned for scalable content modeling, taxonomy structures, multisite governance, and rigorous government/corporate digital accessibility.
 
-18. **[Craft CMS](https://github.com/craftcms/cms)** [![GitHub stars](https://img.shields.io/github/stars/craftcms/cms?style=social&color=white)](https://github.com/craftcms/cms/stargazers)  
+18. **[Craft CMS](https://github.com/craftcms/cms)** [![GitHub_Stars](https://img.shields.io/github/stars/craftcms/cms?style=social&color=white)](https://github.com/craftcms/cms/stargazers)  
     🛠️ Flexible, content-first CMS tailored for bespoke digital web experiences, custom Matrix fields, Twig templates, and multi-environment deployment workflows.
 
-19. **[Silex](https://github.com/silexlabs/Silex)** [![GitHub stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)  
+19. **[Silex](https://github.com/silexlabs/Silex)** [![GitHub_Stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)  
     ✨ Free and libre visual website creator (AGPL-3.0) that generates clean static HTML files without running a heavy server CMS runtime.
 
-20. **[Squidex](https://github.com/Squidex/squidex)** [![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)  
+20. **[Squidex](https://github.com/Squidex/squidex)** [![GitHub_Stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)  
     🐙 Open-source headless CMS and content management hub built on .NET and MongoDB, featuring real-time event-sourcing and multi-channel asset distribution.
 
-21. **[Frappe Builder](https://github.com/frappe/builder)** [![GitHub stars](https://img.shields.io/github/stars/frappe/builder?style=social&color=white)](https://github.com/frappe/builder/stargazers)  
+21. **[Frappe Builder](https://github.com/frappe/builder)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/builder?style=social&color=white)](https://github.com/frappe/builder/stargazers)  
     🧱 Modern open-source visual page builder (MIT) from the Frappe & ERPNext team, enabling responsive page authoring with intuitive drag-and-drop elements.
 
-22. **[Silverstripe CMS](https://github.com/silverstripe/silverstripe-cms)** [![GitHub stars](https://img.shields.io/github/stars/silverstripe/silverstripe-cms?style=social&color=white)](https://github.com/silverstripe/silverstripe-cms/stargazers)  
+22. **[Silverstripe CMS](https://github.com/silverstripe/silverstripe-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/silverstripe/silverstripe-cms?style=social&color=white)](https://github.com/silverstripe/silverstripe-cms/stargazers)  
     🌿 Developer-friendly PHP CMS and web application framework with an ergonomic authoring interface and flexible ORM.
 
 ---
